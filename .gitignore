@@ -5,6 +5,13 @@
 # Session Data files
 .RData
 
+# plots
+.tex
+.pdf
+
+# user config
+config.R.user
+
 # Example code in package build process
 *-Ex.R
 
